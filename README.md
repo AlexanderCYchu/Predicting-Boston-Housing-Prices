@@ -1,7 +1,7 @@
 # Machine Learning Engineer Nanodegree
 # Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices
-
+The [boston_housing.ipynb](https://github.com/AlexanderCYchu/Predicting-Boston-Housing-Prices/blob/master/boston_housing.ipynb) is where the main analysis happen.
 ### Install
 
 This project requires **Python** and the following Python libraries installed:
